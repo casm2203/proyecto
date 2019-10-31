@@ -9,6 +9,16 @@ package proyecto;
  *
  * @author gocargo
  */
-public class cargos  {
+public class asistente {
+    public void tomaNota(){
+        
+    }
+    public void llamadas(){
+        
+    }
+    
+    public void agenda(){
+        
+    }
     
 }

@@ -9,6 +9,26 @@ package proyecto;
  *
  * @author gocargo
  */
-public class cargos  {
-    
+public class contador {
+
+    public void nomina() {
+
+    }
+
+    public void pagos() {
+
+    }
+
+    public void gastos() {
+
+    }
+
+    public void auditoria() {
+
+    }
+
+    public void inventario() {
+
+    }
+
 }

@@ -9,6 +9,9 @@ package proyecto;
  *
  * @author gocargo
  */
-public class cargos  {
-    
+public class operario {
+
+    public void hacer() {
+
+    }
 }

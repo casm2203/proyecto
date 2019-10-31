@@ -9,6 +9,13 @@ package proyecto;
  *
  * @author gocargo
  */
-public class cargos  {
-    
+public class sac {
+
+    public void atencion() {
+
+    }
+
+    public void ventas() {
+
+    }
 }
